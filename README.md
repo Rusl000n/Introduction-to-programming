@@ -77,7 +77,7 @@ Homework assignments from the course introduction to programming by G. Korneev I
 Бонусная версия. Реализуйте Winner — игрок, который выигрывает всегда, когда это возможно (против любого соперника).
 Код должен находиться в пакете game.
 
-### Домашнее задание 12. [Выражения](./prog-into/expression)
+### Домашнее задание 12. [Выражения](./prog-intro/expression)
 
 Разработайте классы Const, Variable, Add, Subtract, Multiply, Divide для вычисления выражений с одной переменной в типе int (интерфейс Expression).
 Классы должны позволять составлять выражения вида
